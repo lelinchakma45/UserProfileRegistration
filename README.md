@@ -23,13 +23,7 @@ This Kotlin program implements a basic user profile registration system for the 
 
 ## Screenshots
 
-<img src="https://github.com/lelinchakma45/UserProfileRegistration/blob/master/app/src/main/screenshoot/Screenshot_20240516_091832.png?raw=true" alt="Splash Screen" width="98" height="200" />
-
-<img src="https://github.com/lelinchakma45/UserProfileRegistration/blob/master/app/src/main/screenshoot/Screenshot_20240516_091801.png?raw=true" alt="Splash Screen" width="100" height="200" /> 
-
-<img src="https://github.com/lelinchakma45/UserProfileRegistration/blob/master/app/src/main/screenshoot/Screenshot_20240516_091843.png?raw=true" alt="Splash Screen" width="100" height="200" /> 
-
-<img src="https://github.com/lelinchakma45/UserProfileRegistration/blob/master/app/src/main/screenshoot/Screenshot_20240516_091857.png?raw=true" alt="Splash Screen" width="100" height="200" /> 
+<img src="https://github.com/lelinchakma45/UserProfileRegistration/blob/master/app/src/main/screenshoot/Screenshot_20240516_091832.png?raw=true" alt="Splash Screen" width="98" height="200" /><img src="https://github.com/lelinchakma45/UserProfileRegistration/blob/master/app/src/main/screenshoot/Screenshot_20240516_091801.png?raw=true" alt="Splash Screen" width="100" height="200" /> <img src="https://github.com/lelinchakma45/UserProfileRegistration/blob/master/app/src/main/screenshoot/Screenshot_20240516_091843.png?raw=true" alt="Splash Screen" width="100" height="200" /> <img src="https://github.com/lelinchakma45/UserProfileRegistration/blob/master/app/src/main/screenshoot/Screenshot_20240516_091857.png?raw=true" alt="Splash Screen" width="100" height="200" /> 
 
 
 ## Dependencies
