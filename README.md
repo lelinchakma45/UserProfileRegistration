@@ -15,7 +15,7 @@ This Kotlin program implements a basic user profile registration system for the 
 
 ## Tool Used
 
-- Android Studio (Jallyfish)
+- Android Studio (Jellyfish)
 - Programming
     - Kotlin (OOP)
     - Android SDK 17-28
