@@ -1,5 +1,5 @@
 
-# User Profile Registration (NSDA)
+## User Profile Registration (NSDA)
 
 This Kotlin program implements a basic user profile registration system for the National Skills Development Authority (NSDA) project using the Model-View-ViewModel (MVVM) architecture. It prompts users to input their username, email, date of birth, phone number, and home district. Subsequently, it displays the entered details back to the user. This project serves as a straightforward demonstration of user registration implementation in Kotlin following the MVVM design pattern.
 
@@ -29,8 +29,7 @@ This Kotlin program implements a basic user profile registration system for the 
 ## Dependencies
 
 List the Kotlin dependencies used in your project. Include the name of the dependency and its version.
-
-- [CircleImageView](https://github.com/hdodenhof/CircleImageView)
+ [CircleImageView](https://github.com/hdodenhof/CircleImageView)
 ```de.hdodenhof:circleimageview:3.1.0```
 
 ```gradle
