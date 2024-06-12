@@ -29,7 +29,9 @@ This Kotlin program implements a basic user profile registration system for the 
 ## Dependencies
 
 List the Kotlin dependencies used in your project. Include the name of the dependency and its version.
- [CircleImageView](https://github.com/hdodenhof/CircleImageView)
+ 
+
+[CircleImageView](https://github.com/hdodenhof/CircleImageView)
 ```de.hdodenhof:circleimageview:3.1.0```
 
 ```gradle
